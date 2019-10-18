@@ -1,0 +1,5 @@
+apt update && upgrade -y
+pkg install git
+pkg install requests mechanize
+git clone https://github.com/bhimapratama/darkfb
+ls
